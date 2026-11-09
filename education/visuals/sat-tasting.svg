@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="780" viewBox="0 0 1100 780" role="img" aria-label="WSET Systematic Approach to Tasting">
+  <rect width="1100" height="780" fill="#fdf8ee"/>
+  <rect x="0" y="0" width="1100" height="96" fill="#1f4a6b"/>
+  <text x="40" y="42" font-family="sans-serif" font-size="32" font-weight="bold" fill="#ffffff">WSET Systematic Approach to Tasting (SAT)</text>
+  <text x="40" y="74" font-family="sans-serif" font-size="17" fill="#d8e8f5">Always in this order. Describe first, conclude last — never jump to identity.</text>
+
+  <g font-family="sans-serif">
+    <rect x="40" y="125" width="1030" height="118" rx="12" fill="#ffffff" stroke="#1f4a6b" stroke-width="2"/>
+    <circle cx="95" cy="184" r="28" fill="#1f4a6b"/><text x="95" y="193" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="140" y="170" font-size="22" font-weight="bold" fill="#1f4a6b">APPEARANCE</text>
+    <text x="140" y="198" font-size="15" fill="#222222">Clarity · Intensity of colour · Colour itself (e.g. lemon, gold, ruby, garnet, purple)</text>
+    <text x="140" y="222" font-size="15" fill="#555555">Also note: legs / tears are NOT a quality score — do not over-read them.</text>
+
+    <rect x="40" y="263" width="1030" height="118" rx="12" fill="#ffffff" stroke="#2e6b3a" stroke-width="2"/>
+    <circle cx="95" cy="322" r="28" fill="#2e6b3a"/><text x="95" y="331" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="140" y="308" font-size="22" font-weight="bold" fill="#2e6b3a">NOSE</text>
+    <text x="140" y="336" font-size="15" fill="#222222">Condition (clean / faulty) · Intensity · Aroma characteristics — primary, secondary, tertiary</text>
+    <text x="140" y="360" font-size="15" fill="#555555">Primary = grape &amp; fermentation · Secondary = winemaking (oak, lees, MLF) · Tertiary = ageing / bottle age</text>
+
+    <rect x="40" y="401" width="1030" height="118" rx="12" fill="#ffffff" stroke="#7a3b1e" stroke-width="2"/>
+    <circle cx="95" cy="460" r="28" fill="#7a3b1e"/><text x="95" y="469" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="140" y="446" font-size="22" font-weight="bold" fill="#7a3b1e">PALATE</text>
+    <text x="140" y="474" font-size="15" fill="#222222">Sweetness · Acidity · Tannin (red) · Alcohol · Body · Flavour intensity &amp; characteristics · Finish (length)</text>
+    <text x="140" y="498" font-size="15" fill="#555555">Check: do the palate flavours match the nose? Is there balance?</text>
+
+    <rect x="40" y="539" width="1030" height="118" rx="12" fill="#fff3cd" stroke="#b8860b" stroke-width="2"/>
+    <circle cx="95" cy="598" r="28" fill="#b8860b"/><text x="95" y="607" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="140" y="584" font-size="22" font-weight="bold" fill="#7a5a00">CONCLUSIONS</text>
+    <text x="140" y="612" font-size="15" fill="#222222">Quality — is it balanced, intense, complex, long? (Outstanding / Very Good / Good / Acceptable / Poor)</text>
+    <text x="140" y="636" font-size="15" fill="#222222">Readiness for drinking / potential for ageing · Identity — grape, origin, style (only after the evidence above)</text>
+  </g>
+  <rect x="40" y="680" width="1030" height="55" rx="10" fill="#eef3e2"/>
+  <text x="60" y="713" font-family="sans-serif" font-size="16" fill="#222222">Exam habit: use the SAT headings every time you taste, in the same order, with the same vocabulary.</text>
+  <text x="40" y="762" font-family="sans-serif" font-size="13" fill="#666666">Supports: Ch. 17 (exam technique) and every tasting · knowledge/tasting-sat.md</text>
+</svg>

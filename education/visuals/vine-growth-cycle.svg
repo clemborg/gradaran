@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760" role="img" aria-label="Vine growth cycle">
+  <rect width="1100" height="760" fill="#fdf8ee"/>
+  <rect x="0" y="0" width="1100" height="96" fill="#3d5a2e"/>
+  <text x="40" y="42" font-family="sans-serif" font-size="32" font-weight="bold" fill="#ffffff">The Vine Growth Cycle</text>
+  <text x="40" y="74" font-family="sans-serif" font-size="17" fill="#e8f0d8">One annual cycle — Northern Hemisphere. Timing varies by region, variety and vintage.</text>
+  <text x="40" y="130" font-family="sans-serif" font-size="16" fill="#333333">Follow the arrows clockwise. Each stage sets up the next — a problem early in the cycle shows up in the wine.</text>
+
+  <!-- Row 1 -->
+  <g font-family="sans-serif">
+    <rect x="40" y="155" width="235" height="210" rx="12" fill="#ffffff" stroke="#3d5a2e" stroke-width="2"/>
+    <text x="157" y="195" font-size="20" font-weight="bold" fill="#3d5a2e" text-anchor="middle">1 · DORMANCY</text>
+    <text x="157" y="222" font-size="15" font-weight="bold" fill="#555555" text-anchor="middle">Winter</text>
+    <text x="157" y="255" font-size="15" fill="#222222" text-anchor="middle">Vine rests; no leaves,</text>
+    <text x="157" y="278" font-size="15" fill="#222222" text-anchor="middle">no growth. Pruning</text>
+    <text x="157" y="301" font-size="15" fill="#222222" text-anchor="middle">sets bud numbers</text>
+    <text x="157" y="324" font-size="15" fill="#222222" text-anchor="middle">and so potential yield.</text>
+
+    <rect x="305" y="155" width="235" height="210" rx="12" fill="#ffffff" stroke="#3d5a2e" stroke-width="2"/>
+    <text x="422" y="195" font-size="20" font-weight="bold" fill="#3d5a2e" text-anchor="middle">2 · BUDBURST</text>
+    <text x="422" y="222" font-size="15" font-weight="bold" fill="#555555" text-anchor="middle">Spring</text>
+    <text x="422" y="255" font-size="15" fill="#222222" text-anchor="middle">Buds open; first</text>
+    <text x="422" y="278" font-size="15" fill="#222222" text-anchor="middle">green shoots appear.</text>
+    <text x="422" y="301" font-size="15" fill="#222222" text-anchor="middle">Young shoots are</text>
+    <text x="422" y="324" font-size="15" fill="#222222" text-anchor="middle">very frost-sensitive.</text>
+
+    <rect x="570" y="155" width="235" height="210" rx="12" fill="#ffffff" stroke="#3d5a2e" stroke-width="2"/>
+    <text x="687" y="195" font-size="20" font-weight="bold" fill="#3d5a2e" text-anchor="middle">3 · FLOWERING</text>
+    <text x="687" y="222" font-size="15" font-weight="bold" fill="#555555" text-anchor="middle">Late spring</text>
+    <text x="687" y="255" font-size="15" fill="#222222" text-anchor="middle">Small flowers open.</text>
+    <text x="687" y="278" font-size="15" fill="#222222" text-anchor="middle">Warm, dry weather</text>
+    <text x="687" y="301" font-size="15" fill="#222222" text-anchor="middle">helps pollination;</text>
+    <text x="687" y="324" font-size="15" fill="#222222" text-anchor="middle">cold / wet = poor set.</text>
+
+    <rect x="835" y="155" width="235" height="210" rx="12" fill="#ffffff" stroke="#3d5a2e" stroke-width="2"/>
+    <text x="952" y="195" font-size="20" font-weight="bold" fill="#3d5a2e" text-anchor="middle">4 · FRUIT SET</text>
+    <text x="952" y="222" font-size="15" font-weight="bold" fill="#555555" text-anchor="middle">Early summer</text>
+    <text x="952" y="255" font-size="15" fill="#222222" text-anchor="middle">Flowers become tiny</text>
+    <text x="952" y="278" font-size="15" fill="#222222" text-anchor="middle">green berries.</text>
+    <text x="952" y="301" font-size="15" fill="#222222" text-anchor="middle">Number of berries</text>
+    <text x="952" y="324" font-size="15" fill="#222222" text-anchor="middle">now sets the crop size.</text>
+
+    <text x="290" y="275" font-size="28" font-weight="bold" fill="#3d5a2e">→</text>
+    <text x="555" y="275" font-size="28" font-weight="bold" fill="#3d5a2e">→</text>
+    <text x="820" y="275" font-size="28" font-weight="bold" fill="#3d5a2e">→</text>
+
+    <!-- Row 2 -->
+    <rect x="40" y="410" width="235" height="210" rx="12" fill="#ffffff" stroke="#7a3b1e" stroke-width="2"/>
+    <text x="157" y="450" font-size="20" font-weight="bold" fill="#7a3b1e" text-anchor="middle">5 · VÉRAISON</text>
+    <text x="157" y="477" font-size="15" font-weight="bold" fill="#555555" text-anchor="middle">Mid-summer</text>
+    <text x="157" y="510" font-size="15" fill="#222222" text-anchor="middle">Berries soften and</text>
+    <text x="157" y="533" font-size="15" fill="#222222" text-anchor="middle">change colour;</text>
+    <text x="157" y="556" font-size="15" fill="#222222" text-anchor="middle">sugar accumulation</text>
+    <text x="157" y="579" font-size="15" fill="#222222" text-anchor="middle">begins in earnest.</text>
+
+    <rect x="305" y="410" width="235" height="210" rx="12" fill="#ffffff" stroke="#7a3b1e" stroke-width="2"/>
+    <text x="422" y="450" font-size="20" font-weight="bold" fill="#7a3b1e" text-anchor="middle">6 · RIPENING</text>
+    <text x="422" y="477" font-size="15" font-weight="bold" fill="#555555" text-anchor="middle">Late summer</text>
+    <text x="422" y="510" font-size="15" fill="#222222" text-anchor="middle">Sugar rises, malic</text>
+    <text x="422" y="533" font-size="15" fill="#222222" text-anchor="middle">acid falls, colour,</text>
+    <text x="422" y="556" font-size="15" fill="#222222" text-anchor="middle">tannin and flavour</text>
+    <text x="422" y="579" font-size="15" fill="#222222" text-anchor="middle">develop (see ripening).</text>
+
+    <rect x="570" y="410" width="235" height="210" rx="12" fill="#ffffff" stroke="#7a3b1e" stroke-width="2"/>
+    <text x="687" y="450" font-size="20" font-weight="bold" fill="#7a3b1e" text-anchor="middle">7 · HARVEST</text>
+    <text x="687" y="477" font-size="15" font-weight="bold" fill="#555555" text-anchor="middle">Autumn</text>
+    <text x="687" y="510" font-size="15" fill="#222222" text-anchor="middle">Grapes picked at</text>
+    <text x="687" y="533" font-size="15" fill="#222222" text-anchor="middle">the ripeness the</text>
+    <text x="687" y="556" font-size="15" fill="#222222" text-anchor="middle">wine style needs —</text>
+    <text x="687" y="579" font-size="15" fill="#222222" text-anchor="middle">not simply “as ripe</text>
+    <text x="687" y="602" font-size="15" fill="#222222" text-anchor="middle">as possible”.</text>
+
+    <rect x="835" y="410" width="235" height="210" rx="12" fill="#ffffff" stroke="#7a3b1e" stroke-width="2"/>
+    <text x="952" y="450" font-size="20" font-weight="bold" fill="#7a3b1e" text-anchor="middle">8 · LEAF FALL</text>
+    <text x="952" y="477" font-size="15" font-weight="bold" fill="#555555" text-anchor="middle">Late autumn</text>
+    <text x="952" y="510" font-size="15" fill="#222222" text-anchor="middle">Leaves fall; vine</text>
+    <text x="952" y="533" font-size="15" fill="#222222" text-anchor="middle">stores reserves in</text>
+    <text x="952" y="556" font-size="15" fill="#222222" text-anchor="middle">wood and roots,</text>
+    <text x="952" y="579" font-size="15" fill="#222222" text-anchor="middle">then returns to</text>
+    <text x="952" y="602" font-size="15" fill="#222222" text-anchor="middle">dormancy.</text>
+
+    <text x="290" y="530" font-size="28" font-weight="bold" fill="#7a3b1e">→</text>
+    <text x="555" y="530" font-size="28" font-weight="bold" fill="#7a3b1e">→</text>
+    <text x="820" y="530" font-size="28" font-weight="bold" fill="#7a3b1e">→</text>
+    <text x="952" y="395" font-size="26" font-weight="bold" fill="#7a3b1e" text-anchor="middle">↓</text>
+  </g>
+  <rect x="40" y="650" width="1030" height="70" rx="10" fill="#eef3e2"/>
+  <text x="60" y="678" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Level 3 link: climate and weather at each stage explain vintage variation.</text>
+  <text x="60" y="703" font-family="sans-serif" font-size="15" fill="#333333">Frost at budburst, rain at flowering, heat / rain at ripening — all change yield, ripeness and quality.</text>
+  <text x="40" y="745" font-family="sans-serif" font-size="13" fill="#666666">Supports: Ch. 1 (natural factors) · knowledge/vine-growth-cycle.md</text>
+</svg>

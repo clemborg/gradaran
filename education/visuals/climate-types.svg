@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="780" viewBox="0 0 1100 780" role="img" aria-label="Climate types comparison">
+  <rect width="1100" height="780" fill="#fdf8ee"/>
+  <rect x="0" y="0" width="1100" height="96" fill="#1f4a6b"/>
+  <text x="40" y="42" font-family="sans-serif" font-size="32" font-weight="bold" fill="#ffffff">Climate Types Compared</text>
+  <text x="40" y="74" font-family="sans-serif" font-size="17" fill="#d8e8f5">Maritime · Continental · Mediterranean — the three Level 3 climate types.</text>
+
+  <g font-family="sans-serif">
+    <!-- Column headers -->
+    <rect x="40" y="120" width="220" height="60" fill="#e8eef2"/>
+    <text x="150" y="157" font-size="16" font-weight="bold" fill="#333333" text-anchor="middle">FEATURE</text>
+    <rect x="260" y="120" width="260" height="60" fill="#2e6b8a"/>
+    <text x="390" y="148" font-size="21" font-weight="bold" fill="#ffffff" text-anchor="middle">MARITIME</text>
+    <text x="390" y="170" font-size="14" fill="#d8e8f5" text-anchor="middle">Ocean moderates</text>
+    <rect x="520" y="120" width="260" height="60" fill="#7a3b1e"/>
+    <text x="650" y="148" font-size="21" font-weight="bold" fill="#ffffff" text-anchor="middle">CONTINENTAL</text>
+    <text x="650" y="170" font-size="14" fill="#f5ddd2" text-anchor="middle">Land heats &amp; cools fast</text>
+    <rect x="780" y="120" width="290" height="60" fill="#b8860b"/>
+    <text x="925" y="148" font-size="21" font-weight="bold" fill="#ffffff" text-anchor="middle">MEDITERRANEAN</text>
+    <text x="925" y="170" font-size="14" fill="#fff2cc" text-anchor="middle">Warm, dry summers</text>
+
+    <!-- Rows -->
+    <g font-size="15" fill="#222222">
+      <rect x="40" y="180" width="1030" height="92" fill="#ffffff"/>
+      <text x="60" y="215" font-size="17" font-weight="bold" fill="#222222">Temperature</text>
+      <text x="60" y="238" font-size="14" fill="#555555">pattern</text>
+      <text x="280" y="212" font-size="15">Moderate; small difference</text>
+      <text x="280" y="235" font-size="15">between summer and winter;</text>
+      <text x="280" y="258" font-size="15">cool summers, mild winters.</text>
+      <text x="540" y="212" font-size="15">Large seasonal swing:</text>
+      <text x="540" y="235" font-size="15">warm / hot summers,</text>
+      <text x="540" y="258" font-size="15">cold winters.</text>
+      <text x="800" y="212" font-size="15">Hot, dry summers;</text>
+      <text x="800" y="235" font-size="15">mild, wetter winters.</text>
+      <text x="800" y="258" font-size="15">Rain falls mainly in winter.</text>
+
+      <rect x="40" y="272" width="1030" height="92" fill="#f2f6f8"/>
+      <text x="60" y="307" font-size="17" font-weight="bold" fill="#222222">Rain &amp; disease</text>
+      <text x="60" y="330" font-size="14" fill="#555555">risk</text>
+      <text x="280" y="304" font-size="15">Rain through the growing</text>
+      <text x="280" y="327" font-size="15">season; higher fungal</text>
+      <text x="280" y="350" font-size="15">disease pressure.</text>
+      <text x="540" y="304" font-size="15">Rain mainly in summer;</text>
+      <text x="540" y="327" font-size="15">risk varies — storms /</text>
+      <text x="540" y="350" font-size="15">hail can damage crops.</text>
+      <text x="800" y="304" font-size="15">Low summer rain, so</text>
+      <text x="800" y="327" font-size="15">lower fungal pressure;</text>
+      <text x="800" y="350" font-size="15">drought / heat is the risk.</text>
+
+      <rect x="40" y="364" width="1030" height="92" fill="#ffffff"/>
+      <text x="60" y="399" font-size="17" font-weight="bold" fill="#222222">Frost &amp; vintage</text>
+      <text x="60" y="422" font-size="14" fill="#555555">risk</text>
+      <text x="280" y="396" font-size="15">Spring frost still possible,</text>
+      <text x="280" y="419" font-size="15">but winters are mild.</text>
+      <text x="280" y="442" font-size="15">Ripeness varies by vintage.</text>
+      <text x="540" y="396" font-size="15">Spring frost and winter</text>
+      <text x="540" y="419" font-size="15">cold are real risks;</text>
+      <text x="540" y="442" font-size="15">big vintage variation.</text>
+      <text x="800" y="396" font-size="15">Frost less of a risk;</text>
+      <text x="800" y="419" font-size="15">vintages more consistent,</text>
+      <text x="800" y="442" font-size="15">but heat can over-ripen.</text>
+
+      <rect x="40" y="456" width="1030" height="92" fill="#f2f6f8"/>
+      <text x="60" y="491" font-size="17" font-weight="bold" fill="#222222">Ripening &amp;</text>
+      <text x="60" y="514" font-size="14" fill="#555555">wine style</text>
+      <text x="280" y="488" font-size="15">Moderate ripeness;</text>
+      <text x="280" y="511" font-size="15">acidity often retained;</text>
+      <text x="280" y="534" font-size="15">alcohol moderate.</text>
+      <text x="540" y="488" font-size="15">Can ripen fully in warm</text>
+      <text x="540" y="511" font-size="15">years; acidity and</text>
+      <text x="540" y="534" font-size="15">alcohol vary by vintage.</text>
+      <text x="800" y="488" font-size="15">Full ripeness, often</text>
+      <text x="800" y="511" font-size="15">higher alcohol, lower</text>
+      <text x="800" y="534" font-size="15">acidity, ripe fruit.</text>
+
+      <rect x="40" y="548" width="1030" height="92" fill="#ffffff"/>
+      <text x="60" y="583" font-size="17" font-weight="bold" fill="#222222">Example</text>
+      <text x="60" y="606" font-size="14" fill="#555555">regions</text>
+      <text x="280" y="580" font-size="16" font-weight="bold">Bordeaux</text>
+      <text x="280" y="603" font-size="15">(Atlantic influence)</text>
+      <text x="540" y="580" font-size="16" font-weight="bold">Burgundy</text>
+      <text x="540" y="603" font-size="15">(inland; NOT maritime)</text>
+      <text x="800" y="580" font-size="16" font-weight="bold">Southern Rhône</text>
+      <text x="800" y="603" font-size="15">Languedoc, Provence</text>
+    </g>
+  </g>
+  <rect x="40" y="665" width="1030" height="70" rx="10" fill="#fff3cd"/>
+  <text x="60" y="693" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">⚠ Do not mix them up: Burgundy is CONTINENTAL, not maritime.</text>
+  <text x="60" y="718" font-family="sans-serif" font-size="15" fill="#333333">Its inland position gives large seasonal swings and marked vintage variation — a classic exam trap.</text>
+  <text x="40" y="762" font-family="sans-serif" font-size="13" fill="#666666">Supports: Ch. 1 (natural factors) · knowledge/climate-types.md</text>
+</svg>
