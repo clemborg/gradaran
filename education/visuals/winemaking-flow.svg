@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="820" viewBox="0 0 1100 820" role="img" aria-label="Winemaking flow white red rose">
+  <rect width="1100" height="820" fill="#fdf8ee"/>
+  <rect x="0" y="0" width="1100" height="96" fill="#7a3b1e"/>
+  <text x="40" y="42" font-family="sans-serif" font-size="32" font-weight="bold" fill="#ffffff">Winemaking: White · Red · Rosé</text>
+  <text x="40" y="74" font-family="sans-serif" font-size="17" fill="#f5ddd2">Same building blocks, different order and contact time — that is what makes the styles.</text>
+
+  <g font-family="sans-serif">
+    <!-- Headers -->
+    <rect x="40" y="120" width="330" height="58" fill="#e8c96a"/><text x="205" y="157" font-size="21" font-weight="bold" fill="#222222" text-anchor="middle">WHITE</text>
+    <rect x="385" y="120" width="330" height="58" fill="#8b2e3a"/><text x="550" y="157" font-size="21" font-weight="bold" fill="#ffffff" text-anchor="middle">RED</text>
+    <rect x="730" y="120" width="340" height="58" fill="#e89aa0"/><text x="900" y="157" font-size="21" font-weight="bold" fill="#222222" text-anchor="middle">ROSÉ</text>
+
+    <!-- Steps as rows -->
+    <g font-size="15" fill="#222222">
+      <rect x="40" y="178" width="1030" height="78" fill="#ffffff"/>
+      <text x="60" y="208" font-size="16" font-weight="bold">1 · CRUSH &amp; PRESS</text>
+      <text x="60" y="232" font-size="15">Grapes crushed, juice pressed</text>
+      <text x="60" y="250" font-size="15">off skins quickly.</text>
+      <text x="405" y="208" font-size="16" font-weight="bold">1 · CRUSH</text>
+      <text x="405" y="232" font-size="15">Grapes crushed; juice</text>
+      <text x="405" y="250" font-size="15">stays WITH skins.</text>
+      <text x="750" y="208" font-size="16" font-weight="bold">1 · CRUSH — SHORT CONTACT</text>
+      <text x="750" y="232" font-size="15">Juice stays with red skins</text>
+      <text x="750" y="250" font-size="15">only briefly, then run off.</text>
+
+      <rect x="40" y="256" width="1030" height="78" fill="#f2f6f8"/>
+      <text x="60" y="286" font-size="16" font-weight="bold">2 · FERMENTATION</text>
+      <text x="60" y="310" font-size="15">Juice only; cool, to keep</text>
+      <text x="60" y="328" font-size="15">fresh aromas.</text>
+      <text x="405" y="286" font-size="16" font-weight="bold">2 · FERMENT + EXTRACTION</text>
+      <text x="405" y="310" font-size="15">Ferment with skins —</text>
+      <text x="405" y="328" font-size="15">colour, tannin, flavour.</text>
+      <text x="750" y="286" font-size="16" font-weight="bold">2 · FERMENTATION</text>
+      <text x="750" y="310" font-size="15">Juice only after run-off;</text>
+      <text x="750" y="328" font-size="15">like white, usually cool.</text>
+
+      <rect x="40" y="334" width="1030" height="78" fill="#ffffff"/>
+      <text x="60" y="364" font-size="16" font-weight="bold">3 · PRESS / SEPARATION</text>
+      <text x="60" y="388" font-size="15">Already pressed — no</text>
+      <text x="60" y="406" font-size="15">skin contact to end.</text>
+      <text x="405" y="364" font-size="16" font-weight="bold">3 · PRESS</text>
+      <text x="405" y="388" font-size="15">Wine pressed off skins</text>
+      <text x="405" y="406" font-size="15">after fermentation.</text>
+      <text x="750" y="364" font-size="16" font-weight="bold">3 · COLOUR SET</text>
+      <text x="750" y="388" font-size="15">Pale colour is fixed at</text>
+      <text x="750" y="406" font-size="15">the short-contact stage.</text>
+
+      <rect x="40" y="412" width="1030" height="78" fill="#f2f6f8"/>
+      <text x="60" y="442" font-size="16" font-weight="bold">4 · MALOLACTIC (MLF)</text>
+      <text x="60" y="466" font-size="15">Optional. Converts sharp</text>
+      <text x="60" y="484" font-size="15">malic → softer lactic acid.</text>
+      <text x="405" y="442" font-size="16" font-weight="bold">4 · MALOLACTIC (MLF)</text>
+      <text x="405" y="466" font-size="15">Very common for reds;</text>
+      <text x="405" y="484" font-size="15">softens acidity.</text>
+      <text x="750" y="442" font-size="16" font-weight="bold">4 · MALOLACTIC (MLF)</text>
+      <text x="750" y="466" font-size="15">Usually avoided, to keep</text>
+      <text x="750" y="484" font-size="15">freshness — not a rule.</text>
+
+      <rect x="40" y="490" width="1030" height="78" fill="#ffffff"/>
+      <text x="60" y="520" font-size="16" font-weight="bold">5 · OAK &amp; AGEING</text>
+      <text x="60" y="544" font-size="15">Often stainless / neutral;</text>
+      <text x="60" y="562" font-size="15">oak used for some styles.</text>
+      <text x="405" y="520" font-size="16" font-weight="bold">5 · OAK &amp; AGEING</text>
+      <text x="405" y="544" font-size="15">Oak common; tannin and</text>
+      <text x="405" y="562" font-size="15">structure develop in age.</text>
+      <text x="750" y="520" font-size="16" font-weight="bold">5 · OAK &amp; AGEING</text>
+      <text x="750" y="544" font-size="15">Usually released young;</text>
+      <text x="750" y="562" font-size="15">freshness is the point.</text>
+    </g>
+  </g>
+  <rect x="40" y="595" width="1030" height="95" rx="10" fill="#fff3cd"/>
+  <text x="60" y="625" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">Key difference in one line:</text>
+  <text x="60" y="650" font-family="sans-serif" font-size="15" fill="#333333">White = ferment juice alone. &#160; Red = ferment juice WITH skins (extraction). &#160; Rosé = brief skin contact, then ferment juice alone.</text>
+  <text x="60" y="672" font-family="sans-serif" font-size="15" fill="#333333">Rosé colour comes from that short contact — not (in quality wine) from blending red and white wine.</text>
+  <rect x="40" y="710" width="1030" height="70" rx="10" fill="#eef3e2"/>
+  <text x="60" y="738" font-family="sans-serif" font-size="15" fill="#222222">After fermentation, all three may be fined, filtered, blended and bottled — the order above is the style decision.</text>
+  <text x="60" y="762" font-family="sans-serif" font-size="15" fill="#333333">Yeast converts sugar → alcohol + CO₂. Fermentation temperature matters: cooler keeps fruit aromas; warmer extracts more.</text>
+  <text x="40" y="805" font-family="sans-serif" font-size="13" fill="#666666">Supports: Ch. 3 (winemaking and maturation)</text>
+</svg>
