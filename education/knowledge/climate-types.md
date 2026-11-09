@@ -50,7 +50,7 @@ budburst, and high vintage variation. Lower humidity usually means
 less constant disease than a maritime climate, but a cold winter or
 a frost spring changes the year sharply.
 
-Examples: Burgundy (semi-continental), Alsace, Champagne
+Examples: Burgundy (continental), Alsace, Champagne
 (cool and continental-influenced), Piedmont (continental influence
 inland from the Mediterranean).
 

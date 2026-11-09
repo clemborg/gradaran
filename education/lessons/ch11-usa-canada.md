@@ -40,7 +40,7 @@ California is not one climate, and the fastest way to understand it is to follow
 
 - 'Napa is all Cabernet.' Napa grows Cabernet famously, but Carneros grows Pinot and Chardonnay, and the valley's range includes Merlot, Syrah, and Zinfandel. 'Napa style' is a simplification.
 - 'California wine is all big and alcoholic.' Coastal, cool-climate California — Sonoma Coast, Santa Cruz Mountains, Anderson Valley — makes elegant, high-acid wines. Bigness is a warm-site and winemaking choice, not a state law.
-- 'Los Carneros is in Napa.' Los Carneros AVA spans both Napa and Sonoma counties. This was a specific correction in the Nov 3 session and should not be reintroduced as an error.
+- 'Los Carneros is in Napa.' Los Carneros AVA spans both Napa and Sonoma counties. Do not present it as Napa-only.
 - 'Icewine is made by freezing grapes in a freezer.' True icewine is frozen on the vine by natural cold. Freezer-made 'icewine' is not the same product and is not permitted as icewine in Canada.
 
 ## Diagnostic questions — ask ONE AT A TIME, in a live session

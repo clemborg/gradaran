@@ -3,7 +3,7 @@
 Spoken summary: These sketches are for comparison, not for learning
 a region in full. Each region gets one spoken paragraph: climate,
 grapes, and the logic that links them. For the full lesson, use the
-chapter file in `lessons/`. Burgundy is cool, semi-continental,
+chapter file in `lessons/`. Burgundy is cool, continental,
 Pinot Noir and Chardonnay, classified by site. Bordeaux is maritime,
 blended, Cabernet on gravel on the Left Bank and Merlot on clay on
 the Right Bank, with Sauternes sweet wines from noble rot. The Loire
@@ -27,7 +27,7 @@ method chapters, not place chapters, and they are sketched at the end.
 
 ## France
 
-Burgundy: cool, semi-continental, limestone slopes, Pinot Noir and
+Burgundy: cool, continental, limestone slopes, Pinot Noir and
 Chardonnay, village to grand cru by site, producer matters as much
 as classification. Chablis: coolest Burgundy, Kimmeridgian limestone,
 lean, high-acid Chardonnay, often unoaked. Beaujolais: Gamay, granite
