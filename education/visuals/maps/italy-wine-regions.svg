@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="800" viewBox="0 0 1100 800" role="img" aria-label="Schematic map of Italy wine regions">
+  <rect width="1100" height="800" fill="#fdf8ee"/>
+  <rect x="0" y="0" width="1100" height="96" fill="#2e6b3a"/>
+  <text x="40" y="42" font-family="sans-serif" font-size="32" font-weight="bold" fill="#ffffff">Italy — Wine Regions</text>
+  <text x="40" y="74" font-family="sans-serif" font-size="17" fill="#d8ead8">Schematic map — not to scale, relative positions only</text>
+  <g font-family="sans-serif">
+    <!-- Boot outline, schematic -->
+    <path d="M 420 150 L 700 150 L 720 260 L 660 360 L 640 470 L 600 560 L 540 620 L 480 600 L 460 480 L 420 380 L 380 260 Z" fill="#e8eef2" stroke="#2e6b3a" stroke-width="3"/>
+    <text x="550" y="135" font-size="14" fill="#555555" text-anchor="middle">N ↑</text>
+    <g font-size="17" font-weight="bold" fill="#222222">
+      <rect x="400" y="165" width="170" height="52" rx="8" fill="#ffffff" stroke="#2e6b3a" stroke-width="2"/><text x="485" y="198" text-anchor="middle">Piedmont</text>
+      <text x="485" y="220" font-size="13" font-weight="normal" fill="#555555" text-anchor="middle">north-west · Nebbiolo</text>
+      <rect x="600" y="165" width="150" height="52" rx="8" fill="#ffffff" stroke="#2e6b3a" stroke-width="2"/><text x="675" y="198" text-anchor="middle">Veneto</text>
+      <text x="675" y="220" font-size="13" font-weight="normal" fill="#555555" text-anchor="middle">north-east</text>
+      <rect x="470" y="280" width="200" height="52" rx="8" fill="#ffffff" stroke="#2e6b3a" stroke-width="2"/><text x="570" y="313" text-anchor="middle">Emilia-Romagna</text>
+      <rect x="480" y="360" width="160" height="52" rx="8" fill="#ffffff" stroke="#2e6b3a" stroke-width="2"/><text x="560" y="393" text-anchor="middle">Tuscany</text>
+      <text x="560" y="415" font-size="13" font-weight="normal" fill="#555555" text-anchor="middle">central · Sangiovese</text>
+      <rect x="480" y="440" width="150" height="52" rx="8" fill="#ffffff" stroke="#2e6b3a" stroke-width="2"/><text x="555" y="473" text-anchor="middle">Umbria</text>
+      <rect x="500" y="520" width="150" height="52" rx="8" fill="#ffffff" stroke="#2e6b3a" stroke-width="2"/><text x="575" y="553" text-anchor="middle">Abruzzo</text>
+      <rect x="480" y="590" width="160" height="46" rx="8" fill="#ffffff" stroke="#2e6b3a" stroke-width="2"/><text x="560" y="619" text-anchor="middle">Campania</text>
+      <rect x="600" y="590" width="140" height="46" rx="8" fill="#ffffff" stroke="#2e6b3a" stroke-width="2"/><text x="670" y="619" text-anchor="middle">Puglia</text>
+      <text x="670" y="640" font-size="13" font-weight="normal" fill="#555555" text-anchor="middle">“heel”</text>
+    </g>
+    <!-- Sicily -->
+    <ellipse cx="620" cy="690" rx="110" ry="32" fill="#e8eef2" stroke="#2e6b3a" stroke-width="3"/>
+    <text x="620" y="685" font-size="18" font-weight="bold" fill="#222222" text-anchor="middle">Sicily</text>
+    <text x="620" y="706" font-size="14" fill="#555555" text-anchor="middle">Etna, on Sicily’s east</text>
+    <!-- Sardinia -->
+    <ellipse cx="280" cy="560" rx="70" ry="90" fill="#e8eef2" stroke="#2e6b3a" stroke-width="3"/>
+    <text x="280" y="565" font-size="17" font-weight="bold" fill="#222222" text-anchor="middle">Sardinia</text>
+    <text x="280" y="588" font-size="13" fill="#555555" text-anchor="middle">island, west</text>
+    <text x="880" y="300" font-size="16" fill="#333333">Adriatic Sea — east</text>
+    <text x="880" y="325" font-size="14" fill="#555555">(right / east side)</text>
+    <text x="180" y="300" font-size="16" fill="#333333">Tyrrhenian Sea</text>
+    <text x="180" y="325" font-size="14" fill="#555555">— west</text>
+  </g>
+  <text x="40" y="755" font-family="sans-serif" font-size="15" fill="#333333">Piedmont (north-west) and Veneto (north-east) anchor the north; Tuscany is central; Sicily and Sardinia are islands.</text>
+  <text x="40" y="785" font-family="sans-serif" font-size="13" fill="#666666">Schematic map — not to scale, relative positions only · Supports: Ch. 9 (Italy)</text>
+</svg>

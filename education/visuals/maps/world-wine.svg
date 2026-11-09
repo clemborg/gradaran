@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="800" viewBox="0 0 1100 800" role="img" aria-label="Schematic world wine map Old World versus New World">
+  <rect width="1100" height="800" fill="#fdf8ee"/>
+  <rect x="0" y="0" width="1100" height="96" fill="#1f4a6b"/>
+  <text x="40" y="42" font-family="sans-serif" font-size="32" font-weight="bold" fill="#ffffff">World Wine — Old World vs New World</text>
+  <text x="40" y="74" font-family="sans-serif" font-size="17" fill="#d8e8f5">Schematic map — not to scale, relative positions only · No precise borders</text>
+  <g font-family="sans-serif">
+    <!-- Old World -->
+    <rect x="40" y="125" width="505" height="480" rx="12" fill="#e8eef2" stroke="#1f4a6b" stroke-width="2"/>
+    <text x="292" y="165" font-size="22" font-weight="bold" fill="#1f4a6b" text-anchor="middle">OLD WORLD</text>
+    <text x="292" y="192" font-size="15" fill="#555555" text-anchor="middle">Europe — long wine history</text>
+    <g font-size="17" fill="#222222" text-anchor="middle">
+      <text x="292" y="240" font-weight="bold">France · Italy · Spain</text>
+      <text x="292" y="268" font-weight="bold">Germany · Austria</text>
+      <text x="292" y="296" font-weight="bold">Portugal · Hungary (Tokaj)</text>
+      <text x="292" y="340" font-size="15" fill="#333333">Wine often labelled by PLACE</text>
+      <text x="292" y="365" font-size="15" fill="#333333">(Bordeaux, Burgundy, Chianti…)</text>
+      <text x="292" y="395" font-size="15" fill="#333333">— though grape is often implied</text>
+      <text x="292" y="420" font-size="15" fill="#333333">by that place.</text>
+      <text x="292" y="470" font-size="15" fill="#333333">Many wines shaped by</text>
+      <text x="292" y="495" font-size="15" fill="#333333">cooler / more marginal climates</text>
+      <text x="292" y="520" font-size="15" fill="#333333">and strict local rules.</text>
+    </g>
+    <!-- New World -->
+    <rect x="565" y="125" width="505" height="480" rx="12" fill="#fff3cd" stroke="#b8860b" stroke-width="2"/>
+    <text x="817" y="165" font-size="22" font-weight="bold" fill="#7a5a00" text-anchor="middle">NEW WORLD</text>
+    <text x="817" y="192" font-size="15" fill="#555555" text-anchor="middle">Outside Europe — newer wine industries</text>
+    <g font-size="17" fill="#222222">
+      <text x="600" y="240" font-weight="bold">USA</text><text x="850" y="240" font-size="15" fill="#555555">California, Oregon, Washington</text>
+      <text x="600" y="280" font-weight="bold">Chile</text><text x="850" y="280" font-size="15" fill="#555555">long, narrow; Pacific + Andes</text>
+      <text x="600" y="320" font-weight="bold">Argentina</text><text x="850" y="320" font-size="15" fill="#555555">Mendoza; high altitude</text>
+      <text x="600" y="360" font-weight="bold">South Africa</text><text x="850" y="360" font-size="15" fill="#555555">Western Cape; Stellenbosch</text>
+      <text x="600" y="400" font-weight="bold">Australia</text><text x="850" y="400" font-size="15" fill="#555555">Barossa, Coonawarra, Yarra</text>
+      <text x="600" y="440" font-weight="bold">New Zealand</text><text x="850" y="440" font-size="15" fill="#555555">Marlborough; cooler, maritime</text>
+      <text x="600" y="490" font-size="15" fill="#333333">Wine often labelled by GRAPE</text>
+      <text x="600" y="515" font-size="15" fill="#333333">(e.g. Cabernet Sauvignon, Shiraz),</text>
+      <text x="600" y="540" font-size="15" fill="#333333">with the place also shown.</text>
+    </g>
+  </g>
+  <rect x="40" y="630" width="1030" height="90" rx="10" fill="#eef3e2"/>
+  <text x="60" y="660" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">“Old” and “New” are about wine history and labelling tradition, not quality.</text>
+  <text x="60" y="685" font-family="sans-serif" font-size="15" fill="#333333">Both make outstanding wine. Climate, grape and winemaking — not the label “Old” or “New” — decide the style.</text>
+  <text x="60" y="708" font-family="sans-serif" font-size="15" fill="#333333">Southern Hemisphere harvests fall roughly six months after the Northern Hemisphere (seasons are reversed).</text>
+  <text x="40" y="785" font-family="sans-serif" font-size="13" fill="#666666">Schematic map — not to scale, relative positions only · Supports: Ch. 11–14 (USA, Chile/Argentina, South Africa, Australia/NZ)</text>
+</svg>

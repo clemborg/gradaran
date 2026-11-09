@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="800" viewBox="0 0 1100 800" role="img" aria-label="Schematic map of France wine regions">
+  <rect width="1100" height="800" fill="#fdf8ee"/>
+  <rect x="0" y="0" width="1100" height="96" fill="#1f4a6b"/>
+  <text x="40" y="42" font-family="sans-serif" font-size="32" font-weight="bold" fill="#ffffff">France — Wine Regions</text>
+  <text x="40" y="74" font-family="sans-serif" font-size="17" fill="#d8e8f5">Schematic map — not to scale, relative positions only</text>
+  <g font-family="sans-serif">
+    <!-- France outline, schematic -->
+    <path d="M 380 140 L 720 140 L 760 220 L 820 260 L 800 380 L 840 480 L 760 620 L 620 660 L 480 640 L 380 560 L 320 420 L 300 280 Z" fill="#e8eef2" stroke="#1f4a6b" stroke-width="3"/>
+    <text x="550" y="130" font-size="14" fill="#555555" text-anchor="middle">N ↑</text>
+    <!-- Regions -->
+    <g font-size="17" font-weight="bold" fill="#222222">
+      <rect x="620" y="165" width="170" height="52" rx="8" fill="#ffffff" stroke="#1f4a6b" stroke-width="2"/><text x="705" y="198" text-anchor="middle">Champagne</text>
+      <rect x="330" y="280" width="150" height="52" rx="8" fill="#ffffff" stroke="#2e6b3a" stroke-width="2"/><text x="405" y="313" text-anchor="middle">Loire</text>
+      <text x="405" y="335" font-size="13" font-weight="normal" fill="#555555" text-anchor="middle">west-central</text>
+      <rect x="760" y="280" width="150" height="52" rx="8" fill="#ffffff" stroke="#7a3b1e" stroke-width="2"/><text x="835" y="313" text-anchor="middle">Alsace</text>
+      <text x="835" y="335" font-size="13" font-weight="normal" fill="#555555" text-anchor="middle">east</text>
+      <rect x="640" y="360" width="170" height="52" rx="8" fill="#ffffff" stroke="#5b2a6e" stroke-width="2"/><text x="725" y="393" text-anchor="middle">Burgundy</text>
+      <text x="725" y="415" font-size="13" font-weight="normal" fill="#555555" text-anchor="middle">east-central</text>
+      <rect x="600" y="440" width="170" height="52" rx="8" fill="#ffffff" stroke="#5b2a6e" stroke-width="2"/><text x="685" y="473" text-anchor="middle">Beaujolais</text>
+      <text x="685" y="495" font-size="13" font-weight="normal" fill="#555555" text-anchor="middle">south of Burgundy</text>
+      <rect x="350" y="470" width="170" height="52" rx="8" fill="#ffffff" stroke="#1f4a6b" stroke-width="2"/><text x="435" y="503" text-anchor="middle">Bordeaux</text>
+      <text x="435" y="525" font-size="13" font-weight="normal" fill="#555555" text-anchor="middle">south-west, Atlantic</text>
+      <rect x="640" y="520" width="170" height="52" rx="8" fill="#ffffff" stroke="#b8860b" stroke-width="2"/><text x="725" y="553" text-anchor="middle">Rhône</text>
+      <text x="725" y="575" font-size="13" font-weight="normal" fill="#555555" text-anchor="middle">south-east</text>
+      <rect x="470" y="590" width="300" height="52" rx="8" fill="#ffffff" stroke="#b8860b" stroke-width="2"/><text x="620" y="623" text-anchor="middle">Languedoc-Roussillon</text>
+      <text x="620" y="645" font-size="13" font-weight="normal" fill="#555555" text-anchor="middle">south · Provence to the east</text>
+    </g>
+    <text x="180" y="480" font-size="16" fill="#1f4a6b" font-weight="bold">ATLANTIC</text>
+    <text x="180" y="505" font-size="14" fill="#555555">OCEAN</text>
+    <text x="880" y="480" font-size="16" fill="#1f4a6b" font-weight="bold">MEDITERRANEAN</text>
+    <text x="880" y="505" font-size="14" fill="#555555">SEA (south)</text>
+  </g>
+  <text x="40" y="730" font-family="sans-serif" font-size="15" fill="#333333">Reading the map: Champagne is the most northerly major region; Bordeaux faces the Atlantic in the south-west;</text>
+  <text x="40" y="755" font-family="sans-serif" font-size="15" fill="#333333">the Rhône runs south-east toward the Mediterranean; Alsace sits on the eastern border.</text>
+  <text x="40" y="785" font-family="sans-serif" font-size="13" fill="#666666">Schematic map — not to scale, relative positions only · Supports: Ch. 4–7</text>
+</svg>
