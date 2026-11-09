@@ -1,6 +1,6 @@
 # WSET Level 3 preparation — chapter curriculum
 
-**Created:** 2026-11-01. This is our own staged self-study sequence, **aligned with** the [official WSET Level 3 Award in Wines qualification](https://www.wsetglobal.com/qualifications/wset-level-3-award-in-wines) and its 2022 Issue 2 specification, not a claim to reproduce the WSET textbook's chapter numbering. Course enrollment goal: **early 2027**.
+**Created:** 2026-11-01. This is our own staged self-study sequence, **aligned with** the [official WSET Level 3 Award in Wines qualification](https://www.wsetglobal.com/qualifications/wset-level-3-award-in-wines) and its 2022 Issue 2 specification, not a claim to reproduce the WSET textbook's chapter numbering. Course enrollment goal: **the learner's own goal** — set it in their own copy.
 
 ## What a chapter status means
 
@@ -25,17 +25,17 @@ The checkpoint is a **study-planning heuristic**, not an official WSET requireme
 
 | Chapter | Area | Main topics | Status | Ready-to-move-on date |
 |---|---|---|---|---|
-| **1** | **Natural factors in the vineyard** | Vine anatomy and growth cycle; needs; grape composition; climate, latitude, altitude, oceans, diurnal range; site, soil, vintage | **Not started** (prior exposure noted) | — |
+| **1** | **Natural factors in the vineyard** | Vine anatomy and growth cycle; needs; grape composition; climate, latitude, altitude, oceans, diurnal range; site, soil, vintage | **Not started** | — |
 | 2 | Human factors in viticulture | Training, pruning, canopy, yields, water, harvesting; weather hazards; pests/disease; sustainability | Not started | — |
 | 3 | Winemaking and maturation | White, red, rosé, fermentation, extraction, MLF, lees, oak, ageing, bottling | Not started | — |
-| 4 | Burgundy, Chablis and Beaujolais | Geographic framework, grapes, appellations, climate, winemaking, resulting styles | Not started (prior familiarity noted) | — |
-| 5 | Bordeaux and southwest France | Left/right bank, grapes, maritime influences, production, classifications | Not started (prior familiarity noted) | — |
+| 4 | Burgundy, Chablis and Beaujolais | Geographic framework, grapes, appellations, climate, winemaking, resulting styles | Not started | — |
+| 5 | Bordeaux and southwest France | Left/right bank, grapes, maritime influences, production, classifications | Not started | — |
 | 6 | Loire and Alsace | Climate, grapes and major appellations, styles and quality | Not started | — |
-| 7 | Rhône, southern France | Northern vs southern Rhône, blends, appellations, styles | Not started (some prior exposure) | — |
+| 7 | Rhône, southern France | Northern vs southern Rhône, blends, appellations, styles | Not started | — |
 | 8 | Germany, Austria and Tokaj | Climatic risks, Riesling, sweetness terminology, regions and wine styles | Not started | — |
-| 9 | Italy | Piedmont, Veneto, Tuscany, central and southern Italy, styles | Not started (Piedmont familiarity noted) | — |
+| 9 | Italy | Piedmont, Veneto, Tuscany, central and southern Italy, styles | Not started | — |
 | 10 | Spain and Portugal (still wines) | Regional climates, grapes, ageing and styles | Not started | — |
-| 11 | USA and Canada | California and other key regions; North American climate and styles | Not started (substantial California exposure noted) | — |
+| 11 | USA and Canada | California and other key regions; North American climate and styles | Not started | — |
 | 12 | Chile and Argentina | Geography, ocean and altitude, grape varieties, regional styles | Not started | — |
 | 13 | South Africa | Climate, regions, grapes, style/quality | Not started | — |
 | 14 | Australia and New Zealand | Key regions, varieties, climates and styles | Not started | — |
@@ -59,11 +59,11 @@ The checkpoint is a **study-planning heuristic**, not an official WSET requireme
 
 **Lesson 1.5 — Integration and checkpoint:** compare two unfamiliar vineyards; explain the expected differences in ripening and eventual wine characteristics. Use eight to ten recall questions, two causal explanations and one new site comparison under the common chapter checkpoint.
 
-**Prior exposure:** California maritime winds/fog, Ukiah vs Anderson Valley, regional temperature differences, slope/drainage, acidity and ripeness have been discussed before. These are useful examples, **not a completion date**. The start date is still blank until the first lesson begins.
+**Teaching examples:** California maritime winds and fog, Ukiah vs Anderson Valley, regional temperature differences, slope/drainage, acidity and ripeness are useful examples for this chapter. They are teaching examples, **not a completion date** — the chapter is not started until the first lesson is taught and logged in the learner's own copy.
 
 **Initial teaching question (ask one at a time):** *During a grapevine's annual cycle, what happens at budburst, flowering, fruit set and véraison?*
 
 ## Update log
 | Date | Change |
 |---|---|
-| 2026-11-01 | Created stage-based curriculum; Chapter 1 defined, chapter-move-on gate recorded; no student answer or chapter checkpoint claimed. |
+| — | Created stage-based curriculum; Chapter 1 defined, chapter-move-on gate recorded; no student answer or chapter checkpoint claimed. |
