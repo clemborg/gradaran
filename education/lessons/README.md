@@ -10,7 +10,7 @@ words, for study use.
 ## Status — read this first
 
 - **No chapter checkpoint has been passed in the shared copy, and no chapter is mastered.** The shared copy contains no learner progress at all, on purpose.
-- Chapters 1–17 are **plans**. A plan written does not count as covering, understanding, or passing a topic.
+- Chapters 1–17 are **plans**. A plan written does not count as covering, understanding, or passing a topic. Look up one lesson file at a time — do not read all 17 before your first session.
 - Each learner starts at **Chapter 1 unless their own `STATE.md` says otherwise**. Copy this pack to your own repo first (see `education/AGENTS.md`), create your own `STATE.md`, `PROGRESS.md` and `SESSION_LOG.md` from `education/progress-templates/`, and record your own progress there.
 - The governing files are `education/AGENTS.md`, `education/CURRICULUM.md`, and — in the learner's own copy — `education/STATE.md`, `education/PROGRESS.md`, and `education/SESSION_LOG.md`. If anything here conflicts with those files, the governing files win, and the conflict should be logged, not smoothed over.
 

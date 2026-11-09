@@ -1,7 +1,9 @@
 # Knowledge base — reference notes for the lesson plans
 
 These notes support `education/lessons/`. They are not lessons themselves,
-and reading them is not the same as passing a checkpoint. They are written
+and reading them is not the same as passing a checkpoint. **Reference-only:
+look up the one note for the lesson you are teaching; do not read the whole
+folder to start.** They are written
 in original words, for study use, and they are organised for both modes:
 each note starts with a short summary, then the detail in plain
 language. If a table would help on paper, the same information is also

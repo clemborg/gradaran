@@ -17,8 +17,9 @@ Agents: you are responsible for telling each new learner to do this, before you 
 - [VOICE-MODE-GUIDE.md](VOICE-MODE-GUIDE.md) — the voice and text mode guide, with starter prompts for both modes and the manual log template.
 - [CURRICULUM.md](CURRICULUM.md) — chapters, learning objectives, and the practical "ready to move on" threshold.
 - [progress-templates/](progress-templates/) — blank `STATE.md`, `PROGRESS.md` and `SESSION_LOG.md` templates. Copy these into `education/` in your own repo; they do not exist in the shared copy.
-- [visuals/](visuals/) — infographics and schematic maps for the lessons (see the index in `visuals/README.md`).
-- [knowledge/history-fun-facts.md](knowledge/history-fun-facts.md) — history and fun facts tied to chapters, to be used sparingly, only where they advance the lesson's story.
+- [visuals/](visuals/) — infographics and schematic maps for the lessons (see the index in `visuals/README.md`). Reference-only: use the one visual that fits the lesson you are teaching.
+- [knowledge/history-fun-facts.md](knowledge/history-fun-facts.md) — history and fun facts tied to chapters, to be used sparingly, only where they advance the lesson's story. Reference-only.
+- [AUDIT.md](AUDIT.md) and [audit-template.md](audit-template.md) — how to audit progress. Reference-only: not needed to start, only after several sessions.
 
 ## Status language (important)
 - **Not recorded** — no reliable evidence of meaningful study yet; this does *not* mean the learner knows nothing.
