@@ -2,7 +2,7 @@
 
 **Status: Not started (plan written). No checkpoint passed. No mastery claimed.**
 **WSET mapping:** Unit 2 — Burgundy, Chablis, Beaujolais.
-**Why this chapter matters:** Burgundy is the user's first pillar and the clearest test of the whole system: one region, two main grapes, and a classification based on place, not grape. If Chapter 1 was understood, Burgundy should feel like an application of it, not a new list.
+**Why this chapter matters:** Burgundy is the clearest test of the whole system: one region, two main grapes, and a classification based on place, not grape. If Chapter 1 was understood, Burgundy should feel like an application of it, not a new list.
 
 ## Voice-mode use — read this first
 
@@ -18,7 +18,7 @@ This plan is written to be read aloud, in order, without relying on any earlier 
 
 ## Introduction (the 1-3 minute opening, in text)
 
-Burgundy is small, complicated, and worth the effort, because it makes the link between place and wine more explicit than almost anywhere else. The region grows mainly two grapes — Pinot Noir for reds, Chardonnay for whites — in a cool, semi-continental climate where ripening is marginal and vintage matters enormously. Because the grapes are constant, differences between wines are mostly differences of place: soil, slope, aspect, and the exact site. That is why Burgundy classifies vineyards, not just wines: a village wine, a premier cru, and a grand cru are, in principle, the same grapes from better and better sites. In practice, producer matters as much as classification — a great producer's village wine can outshine a careless producer's premier cru — and that tension between place and producer is the heart of understanding Burgundy.
+Burgundy is small, complicated, and worth the effort, because it makes the link between place and wine more explicit than almost anywhere else. The region grows mainly two grapes — Pinot Noir for reds, Chardonnay for whites — in a cool, continental climate where ripening is marginal and vintage matters enormously. Because the grapes are constant, differences between wines are mostly differences of place: soil, slope, aspect, and the exact site. That is why Burgundy classifies vineyards, not just wines: a village wine, a premier cru, and a grand cru are, in principle, the same grapes from better and better sites. In practice, producer matters as much as classification — a great producer's village wine can outshine a careless producer's premier cru — and that tension between place and producer is the heart of understanding Burgundy.
 
 ## Core mechanisms, causally
 
@@ -33,7 +33,7 @@ Burgundy is small, complicated, and worth the effort, because it makes the link 
 - Côte de Nuits village vs premier cru: the same producer, the same vintage, different sites — a practical way to taste what classification actually means, and where it stops meaning anything.
 - Chablis vs Côte de Beaune Chardonnay: Chablis is leaner, higher in acid, and more mineral; Meursault or Puligny-Montrachet is rounder, richer, and more likely to see oak and MLF. Same grape, different climate and winemaking.
 - Morgon vs Beaujolais Nouveau: Morgon, a cru, can age and develop savoury, structured character; Nouveau is made to drink within months, bright and simple. Both are Gamay; the difference is site, method, and intent.
-- Mature Burgundy: the user's preference for mature, tertiary Burgundy makes sense here — Pinot Noir with age develops earth, mushroom, and forest-floor notes as primary fruit fades, and the wine's value shifts from fruit to complexity.
+- Mature Burgundy: Pinot Noir with age develops earth, mushroom, and forest-floor notes as primary fruit fades, and the wine's value shifts from fruit to complexity — which is why mature Burgundy is a useful tasting reference here.
 
 ## Common misconceptions and corrections
 
@@ -47,7 +47,7 @@ Burgundy is small, complicated, and worth the effort, because it makes the link 
 These are listed for the tutor to ask, not already asked or answered. Ask one, then wait for the answer before asking the next:
 
 1. Why does Burgundy classify vineyards rather than grape varieties?
-2. How does a cool, semi-continental climate shape Pinot Noir differently from a warm climate?
+2. How does a cool, continental climate shape Pinot Noir differently from a warm climate?
 3. What distinguishes Chablis Chardonnay from Côte de Beaune Chardonnay, and why?
 4. What is carbonic maceration, and what character does it give Gamay?
 5. Why can a village wine from a great producer outshine a premier cru from a poor one?
@@ -72,7 +72,7 @@ These are listed for the tutor to ask, not already asked or answered. Ask one, t
 
 **Two causal explanations (largely independent, unaided):**
 
-1. Explain how Burgundy's cool, semi-continental climate and limestone slope sites lead to Pinot Noir's composition and to the village/premier/grand cru hierarchy.
+1. Explain how Burgundy's cool, continental climate and limestone slope sites lead to Pinot Noir's composition and to the village/premier/grand cru hierarchy.
 2. Explain how Chablis's cooler climate and limestone lead to a different Chardonnay style from the Côte de Beaune, and how oak and MLF choices modify it.
 
 **One new comparison/application scenario (unaided, no material conceptual mistake):**

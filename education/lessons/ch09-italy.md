@@ -2,7 +2,7 @@
 
 **Status: Not started (plan written). No checkpoint passed. No mastery claimed.**
 **WSET mapping:** Unit 2 — Italy.
-**Why this chapter matters:** Italy is the largest chapter by variety: Piedmont is the user's second pillar, but Veneto, Tuscany, and the centre and south must also be covered at Level 3 depth, without turning the chapter into a list of 500 grapes.
+**Why this chapter matters:** Italy is the largest chapter by variety: Piedmont, Veneto, Tuscany, and the centre and south must all be covered at Level 3 depth, without turning the chapter into a list of 500 grapes.
 
 ## Voice-mode use — read this first
 

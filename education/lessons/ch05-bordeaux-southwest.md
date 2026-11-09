@@ -2,7 +2,7 @@
 
 **Status: Not started (plan written). No checkpoint passed. No mastery claimed.**
 **WSET mapping:** Unit 2 — Bordeaux and southwest France.
-**Why this chapter matters:** Bordeaux is the other great Left Bank / Right Bank system: maritime climate, blends, and classification by estate and place. It is also the user's Margaux interest made systematic — why Margaux tastes like Margaux, and why the 2010 vintage behaved as it did.
+**Why this chapter matters:** Bordeaux is the other great Left Bank / Right Bank system: maritime climate, blends, and classification by estate and place. Margaux is a good case study for it — why Margaux tastes like Margaux, and how vintage character shows in a cooler, more classic year versus a riper one.
 
 ## Voice-mode use — read this first
 
@@ -25,12 +25,12 @@ Bordeaux is a maritime region that makes blended wines, and both facts matter. T
 - Maritime climate + blending: rain and moderate warmth mean no vintage is guaranteed, and blends allow a château to compensate for a variety that struggled in a given year.
 - Gravel soils: free-draining, warm, low in nutrients, limiting vigour and helping Cabernet ripen. Clay soils: water-retentive, cooler, suiting Merlot's earlier ripening.
 - Cabernet Sauvignon: thick skins, high tannin, blackcurrant, cedar, and ageing potential; needs warmth and time. Merlot: thinner skins, softer tannin, plum and red fruit, earlier ripening, less ageing structure alone.
-- 1855 Classification: a ranking of Médoc (and Sauternes) estates by price and reputation in 1855, from first to fifth growths, with only one change since (Mouton Rothschild, 1973). It describes historical reputation, not a current tasting ranking.
+- 1855 Classification: a ranking of Médoc (and Sauternes) estates by price and reputation in 1855, from first to fifth growths, with only one change to the Médoc list since (Mouton Rothschild, promoted from second to first growth in 1973). It describes historical reputation, not a current tasting ranking.
 - Noble rot: Botrytis cinerea, under foggy mornings and warm afternoons, shrivels grapes, concentrates sugar and acid, and adds honey, apricot, and spice flavours. Sauternes/Barsac depend on the Ciron/Garonne fog pattern; without it, there is no sweet wine of this kind.
 
 ## Concrete examples
 
-- Margaux (Left Bank): perfumed, elegant, floral Cabernet-led wines, with the appellation's gravel and maritime moderation giving finesse rather than sheer power. The 2010 du Tertre — Cabernet-led, with cedar, blackcurrant, and tobacco — is a textbook example of Margaux structure with a cooler, more classic vintage character than the riper 2009.
+- Margaux (Left Bank): perfumed, elegant, floral Cabernet-led wines, with the appellation's gravel and maritime moderation giving finesse rather than sheer power. A Cabernet-led Margaux — cedar, blackcurrant, and tobacco — is a textbook example of Margaux structure, with a cooler, more classic vintage showing more restraint than a riper year such as 2009.
 - Pauillac vs Saint-Émilion: Pauillac is powerful, tannic, Cabernet-led, built to age; Saint-Émilion is softer, Merlot-led, earlier-drinking, though top estates age well. Same region, opposite soil-grape logic.
 - Sauternes: Château d'Yquem and its neighbours make sweet wines that age for decades, with acidity balancing sweetness — the reason sweet wine is a serious pillar, not a novelty, in a cellar.
 - Southwest France (for contrast): Cahors (Malbec), Madiran (Tannat), Jurançon (sweet and dry Gros Manseng) — same Atlantic influence, different grapes and traditions, useful for showing Bordeaux is not all of southwest France.
