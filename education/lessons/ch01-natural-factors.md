@@ -1,22 +1,21 @@
 # Chapter 1 — Natural factors in the vineyard
 
-**Status: In progress. No checkpoint passed. No mastery claimed.**
+**Status: plan written. No checkpoint passed in the shared copy. No mastery claimed.**
 **WSET mapping:** Unit 1, Learning Outcome 1 — natural vineyard factors.
 **Why first:** every later region question depends on understanding
 *why* grapes ripen differently in different places. If this chapter is
 shaky, Burgundy, Bordeaux, Piedmont, and California will all feel like
 lists to memorise instead of systems to reason about.
 
-**Already covered (exposure plus demonstrated reasoning, Nov 3 session):**
-soil drainage, vine vigour, canopy management, sunlight, temperature,
+**Topics this chapter covers:** soil drainage, vine vigour, canopy management, sunlight, temperature,
 water, grape composition, climate types, altitude, latitude, fog,
-diurnal range, and vintage. The learner correctly explained canopy
-shade/airflow, cooler climates preserving acidity, cool nights retaining
-malic acid, early harvest lowering potential alcohol while retaining
-acidity, and high-altitude/fog interactions. Soil-water stress and
-berry size were taught after an incorrect guess.
+diurnal range, and vintage. The narrative thread is a vine through a season in a place: how the site's
+climate and soil shape water and warmth, how that shapes ripening and grape composition, and how that
+shows in the wine. Teach the mechanisms as a connected story, not as a list — for example, cool nights
+retaining malic acid, early harvest lowering potential alcohol while retaining acidity, and
+high-altitude/fog interactions.
 
-**Not yet independently checked:** climate-type distinctions in full
+**Check independently before moving on:** climate-type distinctions in full
 (maritime vs continental vs Mediterranean, and their risk profiles);
 growth-cycle vocabulary as a systematic set; root-zone oxygen;
 mild versus severe water stress; frost/topography nuances.
@@ -352,7 +351,7 @@ a frost spring, or a short summer changes the year sharply.
 Site choice — slope, aspect, and cold-air drainage — becomes
 critical, because cold air flows downhill and pools in hollows.
 
-**Examples:** Burgundy (semi-continental: inland, with
+**Examples:** Burgundy (continental: inland, with
 continental swings softened by latitude and local factors);
 Alsace (continental, sheltered by the Vosges from Atlantic rain,
 with dry, sunny summers and cold winters); Champagne (cool and
@@ -664,7 +663,6 @@ mean a better wine for every producer in the region.
 
 ### Status
 
-**NOT YET PASSED.** No checkpoint evidence exists in the governing
-files as of the Nov 3 state. Do not mark this chapter
+**NOT YET PASSED.** No checkpoint evidence exists in the shared copy. Do not mark this chapter
 ready-to-move-on until the checkpoint above is actually run and
-logged.
+logged in the learner's own copy.
