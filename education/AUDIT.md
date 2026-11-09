@@ -6,11 +6,10 @@ Issue 2) and with `education/CURRICULUM.md`. This audit is a
 study-planning check. It is **not** an official WSET score, grade,
 or prediction, and it must never be presented as one.
 
-**Who can run it:** any tutor — Muse, ChatGPT voice mode, or another
-tutor — using only evidence in `SESSION_LOG.md` and `PROGRESS.md`,
+**Who can run it:** any tutor or agent — using only evidence in the learner's own `SESSION_LOG.md` and `PROGRESS.md`,
 plus the lesson plans in `lessons/`. Do not use chat memory, personal
 tasting notes, or familiarity as evidence. If it is not logged with
-a date and an actual answer, it is not evidence.
+a date and an actual answer, it is not evidence. Run audits in the learner's own copy, never in the shared copy.
 
 **When to run it:**
 
@@ -79,6 +78,8 @@ Guided answers do not count as unaided causal understanding.
 If a learner can name a region but cannot explain why its wine
 tastes as it does, that is memorisation, not Level 3 understanding.
 
+This is the narrative test: can the learner tell the story — what happens, why, and what it means for the wine — rather than recite a list? A list without the story is not a pass.
+
 ### 4. Tasting (SAT) progress, in parallel
 
 Check SAT separately from theory. Theory progress does not imply
@@ -92,48 +93,29 @@ SAT progress.
   Personal notes are exposure unless written in SAT form and
   logged as such.
 
-As of the Nov 3 state, **no formally assessed SAT blind-tasting
-note is recorded**. An audit must say that plainly, not fill the
-gap with tasting experience.
+An audit must state plainly what SAT evidence exists, and must not fill a gap with tasting experience.
 
-### 5. Gaps from the Nov 3 session — still open until evidenced otherwise
+### 5. The learner's own gaps — still open until evidenced otherwise
 
-These gaps were explicitly logged on Nov 3 and must be checked
-in every audit until they are closed by logged, unaided evidence:
+Every learner accumulates their own gaps. The audit must check the gaps recorded in that learner's own `SESSION_LOG.md` and `PROGRESS.md` — not a previous learner's gaps — and keep checking each one until it is closed by logged, unaided evidence.
 
-- Growth-cycle vocabulary as a systematic set (dormancy, budburst,
-  flowering, fruit set, véraison, ripening, harvest, leaf fall).
-- Root-zone oxygen, distinguished from berry rot: waterlogging
-  suffocates roots, even without rot.
-- Mild versus severe water stress, and timing (before vs after
-  véraison), and berry size and skin-to-juice effects.
-- Frost/topography nuances: cold-air drainage, frost pockets,
-  mid-slope safety, and the correction that frost risk is not
-  universally higher on elevated slopes.
-- Climate-type distinctions: maritime vs continental vs
-  Mediterranean, by mechanism and by risk (disease, frost/
-  vintage variation, drought/heat), independently checked,
-  not just introduced.
-- Geography corrections from Nov 3: Los Carneros spans Napa and
-  Sonoma; Anderson Valley vs Napa latitude comparisons must be
-  framed correctly; morning fog burning off is not itself
-  diurnal range.
-- MLF vs lees ageing, and oak effects, as a review item from
-  PROGRESS.md: malic-to-lactic conversion, sensory and acidity
-  impact, and distinction from lees.
-- Mosel Kabinett and sweetness (Prädikat vs residual sugar),
-  Marlborough Sauvignon Blanc, Gewurztraminer, and Chablis,
-  as prior diagnostic uncertainties.
-- Tasting vocabulary: precision and delicacy, and tannin
-  terminology (intensity vs quality, firmness vs texture).
+Use this template. Fill in the learner's actual gaps from their own log:
 
-An audit that does not mention these gaps has not read
-SESSION_LOG.md and PROGRESS.md, and should be rerun.
+- [Gap 1, e.g. growth-cycle vocabulary as a systematic set — dormancy, budburst, flowering, fruit set, véraison, ripening, harvest, leaf fall]
+- [Gap 2, e.g. root-zone oxygen, distinguished from berry rot: waterlogging suffocates roots, even without rot]
+- [Gap 3, e.g. mild versus severe water stress, and timing before vs after véraison, and berry size and skin-to-juice effects]
+- [Gap 4, e.g. frost/topography nuances: cold-air drainage, frost pockets, mid-slope safety]
+- [Gap 5, e.g. climate-type distinctions: maritime vs continental vs Mediterranean, by mechanism and by risk — disease, frost/vintage variation, drought/heat — independently checked, not just introduced]
+- [Gap 6, e.g. geography corrections the learner has been given — check each one is now correct]
+- [Gap 7, e.g. malolactic fermentation vs lees ageing, and oak effects]
+- [Gap 8, e.g. sweetness terminology: Prädikat vs residual sugar]
+- [Gap 9, e.g. tasting vocabulary: precision, delicacy, tannin terminology]
+
+An audit that does not mention the learner's own recorded gaps has not read their `SESSION_LOG.md` and `PROGRESS.md`, and should be rerun.
 
 ### 6. Spaced review — due dates
 
-For every chapter that has passed a checkpoint (none yet, as of
-Nov 3), the audit must list:
+For every chapter that has passed a checkpoint, the audit must list:
 
 - Checkpoint date.
 - Review due at approximately 1 week after the checkpoint.
@@ -166,7 +148,7 @@ If an audit cannot find evidence for a claim, it must say
 
 ## How to run an audit — steps
 
-1. Read fresh copies of `STATE.md`, `CURRICULUM.md`, `PROGRESS.md`,
+1. Read fresh copies of the learner's own `STATE.md`, `CURRICULUM.md`, `PROGRESS.md`,
    and `SESSION_LOG.md`. Do not rely on a previous audit's summary.
 2. For each chapter, fill in the coverage table in
    `education/audit-template.md` from logged evidence only,
@@ -182,13 +164,11 @@ If an audit cannot find evidence for a claim, it must say
 6. Update `STATE.md` last, only if the audit changes the resume
    point or a status, and log the audit itself in `SESSION_LOG.md`
    as an audit, not as a lesson. Do not rewrite historical session
-   evidence. If you are in ChatGPT voice mode, you cannot push to
-   GitHub — use the manual log template in `VOICE-MODE-GUIDE.md`
+   evidence. If the agent running the audit cannot write to the learner's repo, use the manual log template in `VOICE-MODE-GUIDE.md`
    instead, and say so plainly.
 
 ## Audit frequency and the course timeline
 
-- Goal: WSET Level 3 course in early 2027, exam by April 2027.
 - An audit before enrolment is essential: it should confirm
   whether Chapter 1 and the foundations are actually ready, and
   which regions are still "not recorded" in PROGRESS.md, so the

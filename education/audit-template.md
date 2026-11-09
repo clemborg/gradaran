@@ -1,8 +1,8 @@
 # Audit report template — copy this file for each audit, do not overwrite it
 
 **Audit date:** [YYYY-MM-DD]
-**Auditor:** [Muse / ChatGPT voice / other — and whether the audit was pushed to GitHub or logged manually]
-**Evidence read:** [STATE.md, CURRICULUM.md, PROGRESS.md, SESSION_LOG.md — with dates/versions read]
+**Auditor:** [Any agent — name the agent and mode, and whether the audit was saved to the learner's repo or logged manually]
+**Evidence read:** [Learner's own STATE.md, CURRICULUM.md, PROGRESS.md, SESSION_LOG.md — with dates/versions read]
 **Period covered:** [from last audit, or from start, to this date]
 
 > This audit is a study-planning check, not an official WSET score
@@ -18,10 +18,8 @@ tasting experience, or a previous audit's summary alone.
 
 Spoken summary version (for voice mode): read this section aloud
 as sentences, not as a table. For example: "Chapter 1 is in progress.
-Climate types were introduced on November 3, but they have not yet
-been independently checked, so they are not yet functionally
-understood. Growth-cycle vocabulary, root-zone oxygen, and mild
-versus severe water stress are still gaps to revisit."
+Climate types were introduced, but they have not yet been independently checked, so they are not yet functionally understood. Growth-cycle vocabulary, root-zone oxygen, and mild versus severe water stress are still gaps to revisit."
+In text mode, send the same as short plain-text lines, not as a table.
 
 | Chapter | Essential topics checked | Introduced | Covered | Practised | Functionally understood | Needs review | Missing |
 |---|---|---|---|---|---|---|---|
@@ -57,6 +55,8 @@ versus severe water stress are still gaps to revisit."
 - Lists or names without mechanism: [count and cite]
 - Verdict: [causal / mixed / mainly memorisation, by chapter]
 
+Remember: a list without the story is not Level 3 understanding. The learner must be able to tell what happens, why, and what it means for the wine.
+
 ## 4. Tasting (SAT) progress, in parallel
 
 - Structured white SAT note logged? [yes/no, with date]
@@ -65,21 +65,21 @@ versus severe water stress are still gaps to revisit."
 - Personal tasting notes mistaken for SAT evidence? [yes/no, with correction]
 - Verdict: [SAT evidenced / SAT practised only / SAT not recorded]
 
-## 5. Gaps from the Nov 3 session — still open?
+## 5. The learner's own gaps — still open?
 
-Check each gap from AUDIT.md section 5, and mark it Closed
+Check each gap from the learner's own SESSION_LOG.md and PROGRESS.md (see AUDIT.md section 5), and mark it Closed
 (only with logged, unaided evidence), Still open, or Partially
-addressed (with what remains):
+addressed (with what remains). Do not copy another learner's gap list.
 
-- Growth-cycle vocabulary: [ ]
-- Root-zone oxygen vs berry rot: [ ]
-- Mild vs severe water stress, and timing: [ ]
-- Frost/topography nuances, cold-air drainage, frost pockets: [ ]
-- Climate-type distinctions, independently checked: [ ]
-- Carneros geography; Anderson Valley vs Napa framing; fog vs diurnal range: [ ]
-- MLF vs lees, and oak effects: [ ]
-- Mosel Kabinett/sweetness; Marlborough Sauvignon Blanc; Gewurztraminer; Chablis: [ ]
-- Tasting vocabulary (precision, delicacy, tannin terminology): [ ]
+- [Gap 1]: [ ]
+- [Gap 2]: [ ]
+- [Gap 3]: [ ]
+- [Gap 4]: [ ]
+- [Gap 5]: [ ]
+- [Gap 6]: [ ]
+- [Gap 7]: [ ]
+- [Gap 8]: [ ]
+- [Gap 9]: [ ]
 
 ## 6. Spaced review — due dates
 
@@ -122,39 +122,22 @@ tutor should teach in that order unless the learner redirects.
 - WSET exam readiness predicted: [none — this audit does not predict exam scores]
 - Evidence not found: [list topics where no evidence was found, rather than assuming knowledge]
 
-## Worked example — how to fill this in honestly (illustrative, not a real audit)
+## Worked example — ILLUSTRATIVE ONLY, not a real audit
 
-Audit date: 2026-11-03 (illustrative). Evidence read: STATE.md
-Nov 3, PROGRESS.md, SESSION_LOG.md Nov 1 and Nov 3. Period: Nov 1–3.
+> **This worked example is invented to show how to fill the template in honestly. It is not a real learner, not real evidence, and not a real audit. Do not copy its verdicts, dates or gaps as if they were findings about any actual learner.**
 
-Coverage: Chapter 1 — climate types introduced Nov 3, not yet
-independently checked, so marked Introduced, not Functionally
-understood. Growth-cycle vocabulary: introduced Nov 1, needed
-spelling/definition of véraison, so marked Practised with a gap.
-Root-zone oxygen: taught after an incorrect guess, so marked
-Practised, Needs review, not Functionally understood.
+Audit date: [example date]. Evidence read: the learner's own STATE.md, PROGRESS.md, SESSION_LOG.md. Period: first three sessions.
 
-Alignment: Level 3 causal reasoning evidenced in canopy, acidity,
-and altitude answers on Nov 3, with guidance in places. No
-too-advanced detail drift noted in that period.
+Coverage: Chapter 1 — climate types introduced, not yet independently checked, so marked Introduced, not Functionally understood. Growth-cycle vocabulary: introduced, needed spelling/definition of véraison, so marked Practised with a gap. Root-zone oxygen: taught after an incorrect guess, so marked Practised, Needs review, not Functionally understood.
 
-Causal vs memorisation: several causal answers logged (cool nights
-→ malic acid retained; early harvest → lower alcohol, retained
-acidity), with guidance. No unaided causal explanations at
-checkpoint standard yet, so Chapter 1 checkpoint is not passed.
+Alignment: Level 3 causal reasoning evidenced in canopy, acidity, and altitude answers, with guidance in places. No too-advanced detail drift noted in that period.
 
-SAT: no formally assessed SAT blind note recorded. Personal tasting
-experience noted, but not counted as SAT evidence.
+Causal vs memorisation: several causal answers logged (cool nights → malic acid retained; early harvest → lower alcohol, retained acidity), with guidance. No unaided causal explanations at checkpoint standard yet, so Chapter 1 checkpoint is not passed.
 
-Gaps: climate-type distinctions, growth-cycle vocabulary,
-root-zone oxygen, mild vs severe water stress, and frost/topography
-nuances all still open. Next lesson: maritime, continental, and
-Mediterranean orientation, then one diagnostic question comparing
-frost, rain, and drought risks.
+SAT: no formally assessed SAT blind note recorded. Personal tasting experience noted, but not counted as SAT evidence.
 
-Not claimed: no chapter mastered, no chapter ready-to-move-on,
-no SAT progress claimed, no exam readiness predicted.
+Gaps: climate-type distinctions, growth-cycle vocabulary, root-zone oxygen, mild vs severe water stress, and frost/topography nuances all still open. Next lesson: maritime, continental, and Mediterranean orientation, then one diagnostic question comparing frost, rain, and drought risks.
 
-> End of worked example. Replace it with real evidence in an
-> actual audit. Do not copy the example's verdicts as if they
-> were a new audit's findings.
+Not claimed: no chapter mastered, no chapter ready-to-move-on, no SAT progress claimed, no exam readiness predicted.
+
+> End of worked example. Replace it with real evidence in an actual audit. Do not copy the example's verdicts as if they were a new audit's findings.
